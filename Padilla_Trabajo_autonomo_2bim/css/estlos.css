@@ -1,7 +1,7 @@
 body {
     padding-top: 3rem;
     padding-bottom: 3rem;
-    color: #5a5a5a;
+    color: #464545;
   }
   
   .bd-placeholder-img {
@@ -11,8 +11,8 @@ body {
          -moz-user-select: none;
         user-select: none;
   }
-  
-  
+    
+
   @media (min-width: 768px) {
          .bd-placeholder-img-lg {
         font-size: 3.5rem;
@@ -58,7 +58,7 @@ body {
       
   
   .carousel {
-    margin-bottom: 4rem;
+    margin-bottom: 0.2rem;
   }
   
 
